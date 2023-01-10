@@ -13,5 +13,5 @@ Thank you for visiting my profile. I hope you find my projects and contributions
 - 🔭 I’m currently working as Freelance Developer
 - 🌱 I’m currently learning NodeJS, Svelte
 - 👯 I’m looking to collaborate on CI, Laravel, NodejS, Flutter
-- 📫 How to reach me: anwarsinaga@gmail.com
+- 📫 How to reach me: mr.anwarsinaga@gmail.com
 - 😄 Pronouns: He/Him
